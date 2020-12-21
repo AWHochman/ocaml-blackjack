@@ -1,4 +1,4 @@
-# ocaml-blackjack, CS 3110 Final Project
+# CS 3110 Final Project, ocaml-blackjack
 
 A command-line, Ocaml implementation of the classic game blackjack. To play,
 clone the repository, run the command "make build", and then "make play" from 
